@@ -11,7 +11,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Always remember
 - Respect the privacy of the participants
-- Interact and ask questions
+- Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
 ### New Toys
