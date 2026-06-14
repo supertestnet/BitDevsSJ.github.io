@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar X"
+title: "Socratic Seminar 26"
 meetup: "https://www.meetup.com/san-juan-bitdevs/"
 ---
 
