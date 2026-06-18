@@ -32,7 +32,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Miscellaneous
 
-- [BIP110 debate featuring myself and Chris Guida](https://www.youtube.com/watch?v=qz-VdXUK8hY)
+- [BIP110 debate featuring Chris Guida and Super Testnet](https://www.youtube.com/watch?v=qz-VdXUK8hY)
 - [Polish "Blik" payment system gets a bitcoin bridge](https://bitblik.app/)
 - [Successor to Bitnodes launches](https://bitnod.es/)
 - [First instance of cross-platform CLINK payment (proposed successor to LNURL and BOLT12)](https://bxrd.app/note/5d66b6ad1b43e5dafac62f8488cc8770b64260378ee953498505b0f49a122052)
