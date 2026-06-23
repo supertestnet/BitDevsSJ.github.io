@@ -7,7 +7,11 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 
 ## Announcements
 ### Intro
-Please join us for our next Socratic Seminar. A special thank you to our sponsors for food, refreshments and event space.
+- Thank you to our sponsors for food, refreshments and event space
+- Michael has a merchandise announcement
+- We wish to hold a vote about changing the time for future bitdevs from 7-9 pm to 6-8 pm
+- We want to atart organizing side events, like ping pong, billiards, and beach days. Join this Signal group if interested: https://signal.group/#CjQKIGY9SnYfa6wtrimUC6I2T9A3LvOtrqwy2D-MpUDrtallEhAw7L2bOvYcwavp8-0wcf0X
+- Next bitdevs is scheduled for Wednesday, July 22, same location, time TBA based on the aforementioned vote
 
 ### Always remember
 - Respect the privacy of the participants
