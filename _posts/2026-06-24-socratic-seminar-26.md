@@ -6,8 +6,6 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 ---
 
 ## Announcements
-### Sponsors
-![](https://sanjuanbitdevs.org/assets/pics/2026-06-24-bitdevs-sponsors.png)
 ### Intro
 - Thank you to our sponsors for food, refreshments and event space
 - To donate: [click here](https://btcpay.sanjuanbitdevs.org/apps/32bsssoMC5JpcCvMKgfVXfmXUoy3/pos)
