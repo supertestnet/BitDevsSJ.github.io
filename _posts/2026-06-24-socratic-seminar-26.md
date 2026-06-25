@@ -13,7 +13,7 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315260937/"
 - Michael has a merchandise announcement
 - We wish to hold a vote about changing the time for future bitdevs from 7-9 pm to 6-8 pm
 - We want to start organizing side events, like ping pong, billiards, and beach days. Join [this secondary Signal group](https://signal.group/#CjQKIGY9SnYfa6wtrimUC6I2T9A3LvOtrqwy2D-MpUDrtallEhAw7L2bOvYcwavp8-0wcf0X) if interested
-- Next bitdevs is scheduled for Wednesday, July 22, same location, time TBA based on the aforementioned vote
+- Next bitdevs is scheduled for Wednesday, July 29, same location, time TBA based on the aforementioned vote
 - Any not previously published announcements
 
 ### Always remember
