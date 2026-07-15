@@ -39,7 +39,7 @@ meetup: "https://www.meetup.com/"
 ### Stratum v2
 - [Brains Hashpower adds stratum V2 support](https://x.com/i/status/2075219042105721175)
 - [First ever bitcoin block mined via stratum V2?](https://x.com/i/status/2070133893785645401)
-- [first ever pool to create a dedicated stratum V2 port?](https://x.com/i/status/2072321436413231519)
+- [First ever pool to create a dedicated stratum V2 port?](https://x.com/i/status/2072321436413231519)
 
 ### New Toys
 - [Lightning Dev Kit announces offline-friendly LN payments](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
