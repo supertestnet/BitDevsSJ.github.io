@@ -49,7 +49,7 @@ meetup: "https://www.meetup.com/"
 ### Software updates
 - [Devs are preparing Testnet 5](https://bitcoinops.org/en/newsletters/2026/06/12/#draft-bip-for-testnet5)
 - [LND makes more progress with implementing bolt12 support](https://github.com/lightningnetwork/lnd/pull/10789)
-- [Vanilla js library adds support for output descriptors](https://x.com/i/status/2074867956777910486) [and bip157](https://x.com/guggero/status/2077021245783109979)
+- [Vanilla js library adds support for output descriptors](https://x.com/i/status/2074867956777910486) | [and bip157](https://x.com/guggero/status/2077021245783109979)
 
 ### Miscellaneous
 - [Rusty Russel announces his retirement from Blockstream](https://blog.blockstream.com/rusty-russell-eleven-years-of-lightning-at-blockstream/)
