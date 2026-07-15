@@ -21,7 +21,7 @@ meetup: "https://www.meetup.com/"
 ### Privacy improvements
 - [Sparrow Wallet supports receiving silent payments now](https://github.com/sparrowwallet/sparrow/releases/tag/2.5.0)
 - [New web wallet supports silent payments, Ark, and LN](https://halwallet.app)
-- [More private swaps between ark and bitcoin L1](https://x.com/i/status/2061096410611601459)
+- [More private swaps between Ark and bitcoin L1](https://x.com/i/status/2061096410611601459)
 - [Joinstr adds a new sybil resistance mechanism](https://njump.to/nevent1qqs8mzfqfvcxry8dwgv7a03fvctamzswgfaet96g978wqu40duapl5sppemhxue69uhkummn9ekx7mp0qgsxdqfx3t8ywjx5rfx0es0xgqr0hy6mhs6e0q4nm9s37ex4r3n49kgrqsqqqqqp226fzf)
 - [Joinmarket-NG adds mempool support](https://github.com/joinmarket-ng/joinmarket-ng/releases/tag/0.32.0)
 
