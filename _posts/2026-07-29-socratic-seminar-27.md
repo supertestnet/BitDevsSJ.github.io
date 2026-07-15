@@ -10,7 +10,7 @@ meetup: "https://www.meetup.com/"
 - Thank you to our sponsors for food, refreshments and event space
 - To donate: [click here](https://btcpay.sanjuanbitdevs.org/apps/32bsssoMC5JpcCvMKgfVXfmXUoy3/pos)
 - Join [this secondary Signal group](https://signal.group/#CjQKIGY9SnYfa6wtrimUC6I2T9A3LvOtrqwy2D-MpUDrtallEhAw7L2bOvYcwavp8-0wcf0X) if interested in side events
-- Next bitdevs is TBA
+- Next bitdevs is August 19 from 7pm to 9pm
 - Any not previously published announcements
 
 ### Always remember
