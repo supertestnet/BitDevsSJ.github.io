@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 27"
-meetup: "https://www.meetup.com/"
+meetup: "https://www.meetup.com/san-juan-bitdevs/events/315738088/"
 ---
 
 ## Announcements
