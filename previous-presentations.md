@@ -4,7 +4,7 @@ title: Previous presentations
 ---
 
 <div class="Home">
-  <h1>Prevous presentations</h1>
+  <h1>Previous presentations</h1>
 </div>
 
 #1 | January 2023 | [RBF & Nostr](https://docs.google.com/presentation/d/1QVzNlY2IFYPW4FDxOlgni8eDPxPc4kGzHogQzpszirU/edit?usp=drive_link)  
