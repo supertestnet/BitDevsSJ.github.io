@@ -7,6 +7,16 @@ title: Previous presentations
   <h1>Previous presentations</h1>
 </div>
 
+<style>
+  th {
+    text-align: left;
+    padding: 0 .5rem;
+  }
+  td {
+    padding: 0 .5rem;
+  }
+</style>
+
 <table>
   <thead>
     <tr>
