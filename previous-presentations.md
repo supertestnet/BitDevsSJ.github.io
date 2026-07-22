@@ -9,7 +9,7 @@ title: Previous presentations
 
   - [1. RBF & Nostr](https://docs.google.com/presentation/d/1QVzNlY2IFYPW4FDxOlgni8eDPxPc4kGzHogQzpszirU/edit?usp=drive_link)
   - [2. Taproot Assets](https://docs.google.com/presentation/d/1wAajUGIPhHlAOhzpOhU4wlGLM-UTOfiHcNJ8r6e3Oj8/edit?usp=drive_link)
-  - 3. - Missing
+  - #3 is missing
   - [4. DLCs](https://docs.google.com/presentation/d/1aJrGzc_MgbnTnF0GXqbvXLTc-zv3gMrMbryBH87T5Jo/edit?usp=drive_link)
   - [5. Merge Mining](https://docs.google.com/presentation/d/17tpina9DOuJPT5w5WPTU5MJXmbzKI-XjCuTZnj5Xyvo/edit?usp=drive_link)
   - [6. Ark](https://docs.google.com/presentation/d/1fAaQiG7nEYYvFx9oL54Ddr9jdNmJ81VzZdX2VKrq_W4/edit?usp=drive_link)
