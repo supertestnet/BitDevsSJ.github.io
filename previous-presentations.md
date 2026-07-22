@@ -10,7 +10,7 @@ title: Previous presentations
 <table>
   <thead>
     <tr>
-      <th>ID</th>
+      <th>Number</th>
       <th>Date</th>
       <th>Topic</th>
     </tr>
