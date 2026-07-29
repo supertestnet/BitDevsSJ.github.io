@@ -26,10 +26,12 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/315738088/"
 - [Joinmarket-NG adds mempool support](https://github.com/joinmarket-ng/joinmarket-ng/releases/tag/0.32.0)
 
 ### Arbitrary data
+- Alex Newman's research on Client Side Validated data \[no link -- original research\]
 - [LifoFifo proposes a way to make inscriptions bip110 compatible](https://x.com/lifofifo/status/2072828299097555000)
 - [Ocean opts its stratum v1 miners into signaling for bip110, with a way to opt out](https://x.com/i/status/2074825828731342880)
 - [SegData bip wants to make a prunable place for arbitrary data](https://delvingbitcoin.org/t/bip-draft-segregated-data-a-prunable-script-isolated-block-region-for-data-carriage/2641/4)
 - [Hodlonaut's essay on the culture of bitcoin core's maintainers and associates](https://www.citadel21.com/the-merge)
+- Juan's Project \[no link -- original software demo\]
 
 ### Unusual transactions
 - [Openoms demonstrates an "emergency exit" from Spark](https://x.com/i/status/2074873145203233012)
