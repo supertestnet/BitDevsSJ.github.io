@@ -10,8 +10,8 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/316020523/"
 - Thank you to our sponsors for food, refreshments and event space
 - To donate: [click here](https://btcpay.sanjuanbitdevs.org/apps/32bsssoMC5JpcCvMKgfVXfmXUoy3/pos)
 - Join [our Signal group](https://signal.group/#CjQKIKegiUKszZcy7x8Z7L15rUC6xE6MLjYfHmbLM59LMeIxEhC3HnxW3_3pwgyEoIdC6Bim)
-- Next bitdevs is September 23 from 7pm to 9pm
 - Fill out our [participation form](https://docs.google.com/forms/d/e/1FAIpQLSeyKbrL-DBWIaj4cDJICHj69K6RRIA-x_p8s5y2zKaBMmVqSw/viewform)
+- Next bitdevs is September 23 from 7pm to 9pm
 - Any not previously published announcements
 
 ### Always remember
