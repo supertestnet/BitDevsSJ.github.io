@@ -19,6 +19,9 @@ meetup: "https://www.meetup.com/san-juan-bitdevs/events/316020523/"
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 
+### Show and tell
+- Alex Newman presents how his wallet software uses bip157
+
 ### Red alert situations
 - [Many coldcard hardware wallets vulnerable to theft](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)
 - [How the coldcard bug works](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
