@@ -24,8 +24,8 @@ meetup: "https://www.meetup.com/"
 
 - [Liquid sidechain got drained by hackers](https://x.com/Rob1Ham/status/2096671192228741515)
 - [Critical vulnerabilities in CLN can lead to coin loss](https://stacker.news/items/1555439)
-- [Btcpay hit with critical vulnerability](https://x.com/i/status/2085755643659522240)
-- [CryptoJS library used in over 15k cryptocurrency apps -- including many bitcoin ones -- found to create relatively predictable seed phrases](https://x.com/i/status/2086810138388664636)
+- [Critical vulnerabilities in Btcpay can lead to coin loss](https://x.com/i/status/2085755643659522240)
+- [Critical vulnerabilities in CryptoJS library can lead to coin loss](https://x.com/i/status/2086810138388664636)
 - [LNp2pbot shuts down due to security breaches by AI-equipped hackers](https://x.com/i/status/2086896990256799795)
 - [Sensitive data about a large number of Trezor customers leaked](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident)
 - [Many old Cascascius coins all got redeemed at once](https://x.com/glxyresearch/status/2096355931369951323)
