@@ -12,7 +12,7 @@ meetup: "https://www.meetup.com/"
 - To donate: [click here](https://btcpay.sanjuanbitdevs.org/apps/32bsssoMC5JpcCvMKgfVXfmXUoy3/pos)
 - Join [our Signal group](https://signal.group/#CjQKIKegiUKszZcy7x8Z7L15rUC6xE6MLjYfHmbLM59LMeIxEhC3HnxW3_3pwgyEoIdC6Bim)
 - Fill out our [participation form](https://docs.google.com/forms/d/e/1FAIpQLSeyKbrL-DBWIaj4cDJICHj69K6RRIA-x_p8s5y2zKaBMmVqSw/viewform)
-- Next bitdevs is September 23 from 7pm to 9pm
+- Next bitdevs is October 28 from 7pm to 9pm
 - Any not previously published announcements
 
 ### Always remember
