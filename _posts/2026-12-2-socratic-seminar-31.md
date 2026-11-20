@@ -35,6 +35,7 @@ meetup: "https://www.meetup.com/"
 - [Landfall is an app for using Ocean more easily](https://github.com/vincenzopalazzo/landfall)
 - [Mara starts using stratum v2](https://stacker.news/items/1616278)
 - [BlackIce is a tool for using Frost in a group](https://stacker.news/items/1609561)
+- [Mining payouts via Silent Payments](https://delvingbitcoin.org/t/silent-payments-coinbase/2833)
 
 ### Improving L2s other than LN
 - [New layer two proposal called Lichen](https://groups.google.com/g/bitcoindev/c/yZEZ5P1lj5E)
