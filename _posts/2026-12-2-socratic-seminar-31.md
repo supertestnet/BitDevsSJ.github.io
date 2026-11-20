@@ -20,7 +20,7 @@ meetup: "https://www.meetup.com/"
 
 ### Exploits and fixes
 - [Biggest heist in history: Binance hacked for $5.7 billion](https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist)
-- [Trezor hit with supply chain attack])https://x.com/Trezor/status/2116062963752747040?a=eQ_HCnhp9OMJ1CuULAY&s=19)
+- [Trezor hit with supply chain attack](https://x.com/Trezor/status/2116062963752747040?a=eQ_HCnhp9OMJ1CuULAY&s=19)
 - [Bitcoin Core fixes bug that allowed attackers to make miners mine invalid blocks](https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/)
 - [Critical security vulnerability in electrum](https://x.com/ElectrumWallet/status/2113935057656369564)
 - [Pull request to fix a timing analysis attack on Private Broadcasts](https://github.com/bitcoin/bitcoin/pull/36277)
